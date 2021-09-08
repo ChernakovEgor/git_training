@@ -1,4 +1,8 @@
 # git_training
 Demo repository for testing remote functionality
 
-some additional code
+```swift
+if let a = list.first() {
+    let ac = UIAlertController()
+}
+```
